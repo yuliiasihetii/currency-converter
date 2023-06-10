@@ -1,0 +1,13 @@
+@media screen and (max-width: 950px){
+    .width {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .width {
+        width: 95%;
+        margin-top: 100px;
+        padding: 15px;
+    }
+}
